@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Users</title>
+  </head>
+  <body>
+
+    {% for i in tab %}
+<ul>
+       <li>{{i.first}}</li>
+       <li>{{i.last}}</li>
+       <li>{{i.email}}</li>
+       <li>{{i.gender}}</li>
+       <li>{{i.courses}}</li>
+
+</ul>
+    {% endfor %}
+
+  </body>
+</html>

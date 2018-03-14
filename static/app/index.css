@@ -1,0 +1,28 @@
+body{
+
+  background-size: cover;
+  opacity:0.8;
+  color:red;
+}
+.jumbotron{
+  margin-top: 10%;
+  margin-left: 15%;
+  background-color: transparent;
+  color:white;
+  font-size: 2em;
+}
+.amigo{
+  margin-left: 20%;
+
+
+}
+hr{
+  color :
+
+}
+.btn{
+    margin-left: 43%;
+    opacity: 1.0;
+    font-weight: bold;
+    color: #1d4875;
+}
